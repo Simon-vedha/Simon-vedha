@@ -1,4 +1,4 @@
-### <div align="center">I'm Simon, A passionate DATA ANALYST 👨‍💻 working since 2020  🚀 Experienced in Ecommerce & NBFC Industries</div>  
+### <div align="center">I'm Simon, A passionate DATA ANALYST 👨‍💻  Experienced in Ecommerce & NBFC Industries</div>  
   
 
 - 🔭 I’m currently working on IDFC First Bharat Ltd  
