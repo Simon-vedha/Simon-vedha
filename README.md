@@ -16,7 +16,7 @@
 - 👨‍💻 All of my projects are available at  [link](https://github.com/Simon-vedha?tab=repositories)  
   
 
-- 📄 Know about my experiences [link](https://drive.google.com/file/d/1nzv3_h0PNeAHBV6JT6dOYuwDqRkFNS6m/view?usp=sharing)  
+- 📄 Know about my experiences [link](https://drive.google.com/file/d/1oH29KlhsviIeMc28zIjc2JJG3vt4f1_8/view?usp=drive_link)  
   
 
 - ⚡ Fun fact Data analysts are often called "Data Detectives" because they uncover insights by investigating patterns and trends in data.  
