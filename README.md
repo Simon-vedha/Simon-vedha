@@ -13,7 +13,7 @@
 - 👨‍💻 All of my projects are available at  [link](https://github.com/Simon-vedha?tab=repositories)  
   
 
-- 📄 Know about my experiences [link](https://drive.google.com/file/d/1-i3OPG7oeQfO8XoWP0eHrrlaN6Br8qhU/view?usp=drive_link)  
+- 📄 Resume [link](https://drive.google.com/file/d/1-i3OPG7oeQfO8XoWP0eHrrlaN6Br8qhU/view?usp=drive_link)  
   
 <br/>  
 
