@@ -4,13 +4,10 @@
 - 🔭 I’m currently working on IDFC First Bharat Ltd  
   
 
-- 🌱 I’m currently learning AI & ML  
-  
+- 🌱 Learning AI & ML  
+    
 
-- ❓ Ask me about anything related to data analysis  
-  
-
-- 📫 How to reach me simon.vedhanayagam@gmail.com  
+- 📫 You can reach me at simon.vedhanayagam@gmail.com  
   
 
 - 👨‍💻 All of my projects are available at  [link](https://github.com/Simon-vedha?tab=repositories)  
